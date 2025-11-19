@@ -3,7 +3,7 @@
 This folder contains all the small Python practice files I completed while learning the basics of programming.  
 Each file focuses on one core concept, starting from printing text to building small projects like calculators and games.
 
-![Screenshot](./screenshot_python.png)
+![Screenshot](./screenshot_python)
 
 ---
 
